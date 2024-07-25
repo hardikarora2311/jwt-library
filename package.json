@@ -1,6 +1,6 @@
 {
   "name": "jwt-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "description": "A custom JWT library",
   "types": "dist/index.d.ts",
