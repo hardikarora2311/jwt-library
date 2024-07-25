@@ -1,4 +1,3 @@
-// import { jwtVerify, SignJWT } from "jose";
 async function importKey(secret) {
     return crypto.subtle.importKey("raw", new TextEncoder().encode(secret), { name: "HMAC", hash: { name: "SHA-256" } }, false, ["sign", "verify"]);
 }
