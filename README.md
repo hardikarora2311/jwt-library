@@ -15,3 +15,11 @@ You can install this library using npm:
 
 ```bash
 npm install jwt-library
+```
+
+## Test
+
+You can install this library using npm:
+
+```bash
+npm test
