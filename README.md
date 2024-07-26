@@ -19,7 +19,7 @@ npm install jwt-library
 
 ## Test
 
-You can install this library using npm:
+You can test this library using npm:
 
 ```bash
 npm test
